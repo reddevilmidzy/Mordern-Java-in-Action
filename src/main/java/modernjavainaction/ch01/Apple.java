@@ -2,16 +2,16 @@ package src.main.java.modernjavainaction.ch01;
 
 public class Apple {
 
-    private Integer wight;
+    private Integer weight;
     private Color color;
 
-    public Apple(Integer wight, Color color) {
-        this.wight = wight;
+    public Apple(Integer weight, Color color) {
+        this.weight = weight;
         this.color = color;
     }
 
-    public Integer getWight() {
-        return wight;
+    public Integer getWeight() {
+        return weight;
     }
 
     public Color getColor() {
