@@ -9,4 +9,12 @@ public class Apple {
         this.wight = wight;
         this.color = color;
     }
+
+    public Integer getWight() {
+        return wight;
+    }
+
+    public Color getColor() {
+        return color;
+    }
 }
